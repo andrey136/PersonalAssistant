@@ -1,0 +1,9 @@
+lib
+include
+bin
+personal_assistant_copy.py
+pyvenv.cfg
+__pycache__
+.idea
+.DS_Store
+.git

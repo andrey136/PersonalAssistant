@@ -1,0 +1,19 @@
+{
+  "initial cmds": {
+    "macOS": [
+      {
+        "cmd": "cat",
+        "local_file_path": ["json files", "audio.json"]
+      }
+    ],
+    "Windows": [
+
+    ],
+    "Linux": [
+
+    ],
+    "Unix": [
+
+    ]
+  }
+}
