@@ -1,0 +1,38 @@
+{
+  "setup": {
+    "questions": [
+      "{\"user_parameter\": \"None\", \"q_text\": \"Hi, so, I'm gonna ask you a couple of questions for my set up. It'll only take a few minutes. Is it ok if I do that?\", \"audio_f\": \"./audio/setup qs/Audio 1.m4a\", \"id\": \"3906cc9a-ac55-11ec-b826-a483e702f53d\"}",
+      "{\"user_parameter\": \"f_name\", \"q_text\": \"What is your name?\", \"audio_f\": \"./audio/setup qs/Audio 2.m4a\", \"id\": \"3906d06e-ac55-11ec-b826-a483e702f53d\"}",
+      "{\"user_parameter\": \"nickname\", \"q_text\": \"What would you like me to call you?\", \"audio_f\": \"./audio/setup qs/Audio 3.m4a\", \"id\": \"3906d1b8-ac55-11ec-b826-a483e702f53d\"}",
+      "{\"user_parameter\": \"age\", \"q_text\": \"How old are you?\", \"audio_f\": \"./audio/setup qs/Audio 4.m4a\", \"id\": \"3906d2c6-ac55-11ec-b826-a483e702f53d\"}",
+      "{\"user_parameter\": \"location\", \"q_text\": \"Where do you live?\", \"audio_f\": \"./audio/setup qs/Audio 5.m4a\", \"id\": \"3906d3c0-ac55-11ec-b826-a483e702f53d\"}",
+      "{\"user_parameter\": \"eyes' color\", \"q_text\": \"What is the color of your eyes?\", \"audio_f\": \"./audio/setup qs/Audio 6.m4a\", \"id\": \"d48ae116-ac54-11ec-9e60-a483e702f53d\"}",
+      "{\"user_parameter\": \"self-esteem\", \"q_text\": \"On a scale of one to ten, what do you think you are?\", \"audio_f\": \"./audio/setup qs/Self Esteem.m4a\", \"id\": \"34edddcc-ac6b-11ec-93cf-a483e702f53d\"}",
+      "{\"user_parameter\": \"emotion\", \"q_text\": \"Are you capable of empathy\", \"audio_f\": \"None\", \"id\": \"b724e52a-ac97-11ec-a387-a483e702f53d\"}"
+    ],
+    "warning": {
+      "msg": "",
+      "audio_f": ""
+    },
+    "finish_setup": [
+      {
+        "text": "Ok, that's it for now. If you ever wanna talk to me, just say: \"Hey, Kevin\"",
+        "audio_path": "./audio/finish setup/Fnstp74045.m4a"
+      },
+      {
+        "text": "And I'll be happy to help",
+        "audio_path": "./audio/finish setup/Fnstp74106.m4a"
+      }
+    ]
+  },
+  "developer": {
+    "msg": "Hello developer, here's what you can do here:",
+    "options": [
+      "see greetings.json file",
+      "add a new setup question to greetings.json file",
+      "get a list of setup questions",
+      "delete one of setup questions",
+      "edit one setup questions"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "names": [
+    {
+      "name": "andrei",
+      "audio_path": "./audio/names/andrei.m4a"
+    }
+  ],
+  "warning_msgs" : [
+    {
+      "value":  "I didn't quite get that. Could you please tell me again: ",
+      "audio_path": "./audio/warning msgs/wrms71851.m4a"
+    }
+  ]
+}
